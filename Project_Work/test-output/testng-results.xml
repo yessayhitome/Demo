@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T21:07:00 IST" name="Default suite" finished-at="2022-10-03T21:07:15 IST" duration-ms="14506">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T21:07:00 IST" name="Default test" finished-at="2022-10-03T21:07:15 IST" duration-ms="14506">
+      <class name="com.testng.practise.Automation_Testng">
+        <test-method signature="driver1()[pri:0, instance:com.testng.practise.Automation_Testng@4032d386]" started-at="2022-10-03T21:07:00 IST" name="driver1" finished-at="2022-10-03T21:07:14 IST" duration-ms="13890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver1 -->
+        <test-method signature="logger1()[pri:0, instance:com.testng.practise.Automation_Testng@4032d386]" started-at="2022-10-03T21:07:15 IST" name="logger1" finished-at="2022-10-03T21:07:15 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logger1 -->
+        <test-method signature="manager1()[pri:0, instance:com.testng.practise.Automation_Testng@4032d386]" started-at="2022-10-03T21:07:15 IST" name="manager1" finished-at="2022-10-03T21:07:15 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager1 -->
+      </class> <!-- com.testng.practise.Automation_Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
